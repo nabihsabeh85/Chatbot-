@@ -1,4 +1,5 @@
 Educator Assistant Chatbot
+
 This repository contains the implementation of an Educator Assistant Chatbot, leveraging OpenAI's GPT-4, Pinecone vector store, and Upstash Redis for state management. The chatbot is built using FastAPI and is designed to answer questions based on a provided context and chat history.
 
 Table of Contents
